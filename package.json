@@ -6,8 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "*",
-    "jade": "*",
+    "WebSocket": "*",
     "socket.io": "*"
   }
 }
